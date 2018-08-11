@@ -1,7 +1,7 @@
 EMAN monitoring decom
 dev stage console cert renewal - ordered certs
 LT on dev
-Stage upgrade 
+Stage adapter upgrade 
 packager
 splunk integration DMZ
 add vms to prod
@@ -9,4 +9,4 @@ adding hosts to ESP
 TLS disablement
 ACE migration
 XFF header.
-Jive migration
+Jive migration-need to do it.
